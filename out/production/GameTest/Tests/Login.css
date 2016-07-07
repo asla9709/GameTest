@@ -1,0 +1,20 @@
+.root{
+    -fx-background-image: url("wall.jpg");
+    -fx-background-position: right bottom;
+    -fx-background-size: cover;
+}
+.label{
+    -fx-font-size: 14px;
+    -fx-text-fill: #FFFFFF;
+    -fx-font-family: "Roboto";
+}
+#title-text{
+    -fx-font-size: 32px;
+    -fx-fill: #FFFFFF;
+    -fx-font-family: "Roboto Condensed";
+}
+#action-target{
+    -fx-fill: FIREBRICK;
+    -fx-font-weight: bold;
+    -fx-font-family:"Roboto";
+}
